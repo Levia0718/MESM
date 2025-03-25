@@ -1,0 +1,82 @@
+{
+  "SHS27k": {
+    "random": {
+      "dataset": "SHS27k",
+      "split_mode": "random",
+      "seed": 1,
+      "epochs": 100
+    },
+    "dfs": {
+      "dataset": "SHS27k",
+      "split_mode": "dfs",
+      "seed": 1,
+      "epochs": 100
+    },
+    "bfs": {
+      "dataset": "SHS27k",
+      "split_mode": "bfs",
+      "seed": 1,
+      "epochs": 100
+    }
+  },
+  "SHS148k": {
+    "random": {
+      "dataset": "SHS148k",
+      "split_mode": "random",
+      "seed": 1,
+      "epochs": 100
+    },
+    "dfs": {
+      "dataset": "SHS148k",
+      "split_mode": "dfs",
+      "seed": 1,
+      "epochs": 100
+    },
+    "bfs": {
+      "dataset": "SHS148k",
+      "split_mode": "bfs",
+      "seed": 1,
+      "epochs": 100
+    }
+  },
+  "SYS30k": {
+    "random": {
+      "dataset": "SYS30k",
+      "split_mode": "random",
+      "seed": 1,
+      "epochs": 100
+    },
+    "dfs": {
+      "dataset": "SYS30k",
+      "split_mode": "dfs",
+      "seed": 1,
+      "epochs": 100
+    },
+    "bfs": {
+      "dataset": "SYS30k",
+      "split_mode": "bfs",
+      "seed": 1,
+      "epochs": 100
+    }
+  },
+  "SYS60k": {
+    "random": {
+      "dataset": "SYS60k",
+      "split_mode": "random",
+      "seed": 1,
+      "epochs": 100
+    },
+    "dfs": {
+      "dataset": "SYS60k",
+      "split_mode": "dfs",
+      "seed": 1,
+      "epochs": 100
+    },
+    "bfs": {
+      "dataset": "SYS60k",
+      "split_mode": "bfs",
+      "seed": 1,
+      "epochs": 100
+    }
+  }
+}
